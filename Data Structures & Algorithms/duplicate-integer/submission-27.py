@@ -1,5 +1,5 @@
-# Time: O()
-# Space: O()
+# Time: O(n)
+# Space: O(n)
 # Approach - Length of set check
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
